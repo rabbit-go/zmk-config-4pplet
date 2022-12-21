@@ -8,7 +8,7 @@
 #define FN1 2
 #define SETTINGS 1
 / {
-	keymap {a\
+	keymap {
 		compatible = "zmk,keymap";
 		base_layer {
 // Base layer with ctrl at backspace position
